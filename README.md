@@ -1,6 +1,6 @@
 ##PROJECT VİEW
 
-![tour-places](tour-places.gif)
+![tour-places](tour-project.gif)
 
 ## Project Link
 https://react-tour-placeses.netlify.app/
